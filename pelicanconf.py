@@ -28,10 +28,15 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('twitter', 'www.twitter.com'),
-          ('Another social link', '#'),)
+SOCIAL = (('linkedin', 'https://www.linkedin.com/in/nick-cook-b3749a7a/'),
+          ('github', 'https://github.com/nickcook530'),)
 
 DEFAULT_PAGINATION = False
+
+#Clean-blog configuration
+HEADER_COLOR = 'darkcyan'
+#COLOR_SCHEME_CSS = 'tomorrow_night.css'
+SHOW_SOCIAL_ON_INDEX_PAGE_HEADER = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

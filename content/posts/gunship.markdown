@@ -1,4 +1,4 @@
-title: Gunship
+title: Test Post
 slug: gunship
 category: bands
 date: 2017-06-09

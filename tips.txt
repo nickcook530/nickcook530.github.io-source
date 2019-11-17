@@ -1,0 +1,12 @@
+---- Key Commands ----
+1) Creating a dev server to preview content:
+    $ make devserver
+
+---- Setting up Github Pages ----
+1) Use two separate git repo's. One for live content (live), the other for all source code (source)
+2) You must select a "Theme" in Github settings even though it will not be live
+3) Push updates to live content using the following:
+    $ pelican content -o output -s pelicanconf.py
+    $ ghp-import output
+    $ git push live gh-pages:master
+
