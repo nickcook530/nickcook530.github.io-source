@@ -12,7 +12,7 @@ TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = 'en'
 
-THEME = '/mnt/c/Programming/Pelican/mvb/pelican-themes/clean-blog'
+THEME = '/mnt/c/Programming/Pelican/mvb/pelican-themes/pelican-clean-blog'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -28,7 +28,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
+SOCIAL = (('twitter', 'www.twitter.com'),
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = False
