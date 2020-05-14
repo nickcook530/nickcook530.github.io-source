@@ -1,12 +1,12 @@
 Title: Minimum viable product
 Date: 2020-04-04
-Modified: 2020-04-04
+Modified: 2020-05-12
 Category: product-management
 Tags: product management, software
 Slug: minimum-viable-product
 Authors: Nick Cook
 Summary: *"If you're not embarrassed you've waited too long to release."*
-<!-- modified: 2020-04-04 -->
+<!-- modified: 2020-05-12 -->
 
 *"If you're not embarrassed you've waited too long to release."*
 
@@ -25,4 +25,4 @@ The development teams worked incredibly hard over multiple months and we built t
 
 Turns out it didn't matter how many widgets there were or how many bells and whistles they had, that wasn't enough to get customers to keep coming back. Good thing we learned that before building the seventh widget, but it likely didn't need to take us six widgets with search, sorting and filtering to figure that out either. Maybe we could have released one simple widget and gotten that same feedback with a fraction of the work and then shifted our development efforts accordingly. Oh well, as they say "hindsight is 20/20", so we'll just have to chalk it up to another lesson learned and soldier on.
 
-In the next post we will talk about MVP's less popular cousin, the "minimum lovable product"...and hopefully use a learning experience that doesn't make me look so bad...
+In the [next post](/build-less-learn-more) we will see just how "minimum" we can make an MVP...and hopefully use a learning experience that doesn't make me look so bad...
